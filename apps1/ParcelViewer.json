@@ -1,12 +1,12 @@
 ﻿{
     "values": {
-        "webmap": "0ebefb7ea74b425ebeb5853c42d01142",
-        "titleBar.title": "Parcel Viewer 3",
+        "webmap": "0d04e9f68ed340e191ff88a398ce2971",
+        "titleBar.title": "Parcel Viewer 4",
         "titleBar.iconUrl": "images/onlineapp.png",
         "colorizer.theme": "DarkGray",
-        "searchBox.hint": "42757 Woodward Ave",
-        "featureSearcher.searchLayerName": "Parcel Details",
-        "featureSearcher.searchFields": "SITEADDRESS,CNVYNAME,PARCELID",
+        "searchBox.hint": "WHITE EAGLE ELEMENTARY",
+        "featureSearcher.searchLayerName": "NapervilleShelters",
+        "featureSearcher.searchFields": "facname,capacity",
         "basemapBox.basemapgroupTitle": "",
         "basemapBox.basemapgroupOwner": "",
         "helpMessageBox.content": "Parcel Viewer<hr><br>The Parcel Viewer provides the general public and other interested parties local government property tax and assessment information and supplements that information with lifestyle and internet broadband information for a given neighborhood.<br><br>To locate a parcel, simply click on the map or enter an address or parcel number in the search box and select a parcel from the list."
